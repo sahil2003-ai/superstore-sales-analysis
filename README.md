@@ -37,8 +37,11 @@ Built interactive dashboards featuring:
 Sales by Region (Map Visualization)
 
 
-Top 10 Customers by Sales
+Top 5 Customers by Sales
+
 
 Top 5 Products by Sales
+
 Sales Performance by Ship Mode
+
 Implemented slicers for better data filtering and dynamic analysis.
