@@ -34,11 +34,7 @@ Connected Excel data to Power BI for advanced analysis.
 
 Built interactive dashboards featuring:
 
-Sales by Region (Map Visualization)
-
-
 Top 5 Customers by Sales
-
 
 Top 5 Products by Sales
 
