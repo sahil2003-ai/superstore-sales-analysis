@@ -40,4 +40,6 @@ Top 5 Products by Sales
 
 Sales Performance by Ship Mode
 
+state wise sales using map visuals
+
 Implemented slicers for better data filtering and dynamic analysis.
