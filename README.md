@@ -1,45 +1,84 @@
-# superstore-sales-analysis
+🛒 Superstore Sales Analysis
+📌 Project Overview
 
-Objective: Analyzed sales data to extract insights, identify trends, and drive business decisions using MySQL, Excel, and Power BI.
+This project analyzes the Superstore dataset to uncover insights into sales, profit, and customer behavior.
+The workflow demonstrates the end-to-end data analysis pipeline using Excel, SQL, and Power BI, making it a strong portfolio project for data analytics.
 
-Tools Used: MySQL for data storage, cleaning, and querying.
+🗂️ Files in this Repository
 
-Excel for data cleaning, pivot tables, and basic visualization.
+Superstore.csv → Raw dataset
 
-Power BI for advanced data visualization and dashboard creation.
+Superstore.xlsx → Data cleaning, pivot tables, exploratory analysis
 
-Project Steps:
+superstore_analysis.sql → SQL queries for advanced analysis
 
-Data Collection & Cleaning:
+Superstore Sales Analysis.pbix → Power BI interactive dashboard
 
-Imported the sales dataset from Kaggle.
+README.md → Project documentation
 
-Cleaned missing values and formatted the data properly using Excel.
+🔧 Tools & Skills Used
 
-Database Setup in MySQL:
+Excel → Data cleaning, pivot tables, charts
 
-Created a structured database and imported the cleaned dataset.
+SQL (MySQL/PostgreSQL) → Data aggregation, grouping, business queries
 
-Executed SQL queries to explore data, filter key metrics, and aggregate insights.
+Power BI → KPI dashboard, slicers, interactive charts
 
-Data Analysis in Excel:
+Data Analysis Skills → ETL, trend analysis, KPI measurement, visualization
 
-Created pivot tables for analyzing sales trends by category, region, and customers.
+📊 Key Analysis & Insights
 
-Generated visualizations such as bar charts and pie charts to interpret data.
+Top Customers & Products – Identified customers and products contributing most to revenue.
 
-Data Visualization in Power BI:
+State-Wise Sales – Regional performance visualization to track sales hotspots.
 
-Connected Excel data to Power BI for advanced analysis.
+Shipping Mode Analysis – Tracked order delivery preferences and their impact on profit.
 
-Built interactive dashboards featuring:
+Profitability Trends – Highlighted discounts, categories, and subcategories affecting profitability.
 
-Top 5 Customers by Sales
+Time-Series Analysis – Sales and profit growth monitored over months/years.
 
-Top 5 Products by Sales
+📊 Dashboard Preview
 
-Sales Performance by Ship Mode
+(Insert screenshot of your Power BI dashboard here)
 
-state wise sales using map visuals
+The Power BI dashboard includes:
 
-Implemented slicers for better data filtering and dynamic analysis.
+KPIs: Sales, Profit, Quantity, Profit Margin
+
+Visuals:
+
+Sales & Profit over time
+
+Top customers & products
+
+Sales by category & sub-category
+
+Sales by state (map visualization)
+
+Shipping mode performance
+
+🚀 How to Use
+
+Clone this repository:
+
+git clone https://github.com/sahil2003-ai/superstore-sales-analysis.git
+
+
+Open Superstore.xlsx for Excel-based analysis.
+
+Run queries from superstore_analysis.sql in your SQL environment.
+
+Open Superstore Sales Analysis.pbix in Power BI Desktop for the interactive dashboard.
+
+📌 Business Impact
+
+This analysis helps businesses to:
+
+Identify high-value customers and products
+
+Optimize shipping modes to reduce costs and improve profit
+
+Focus on profitable categories/subcategories
+
+Track regional sales trends for targeted strategies
